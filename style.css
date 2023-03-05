@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: linear-gradient(to right, #f12711, #f5af19);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 400px;
+  height: 350px; 
+}
+#result_handsign_name
+{
+  color: black;
+}
+.handsign_name
+{
+  font-size: 40px;
+}
+.handsign
+{
+  font-size:48px;
+}
